@@ -1,0 +1,17 @@
+nav {
+  text-align: center;
+  background-color: rgb(65, 64, 64);
+  padding: 10px;
+}
+
+li {
+  display: inline;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  display: inline;
+}
