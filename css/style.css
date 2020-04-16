@@ -1,5 +1,8 @@
-nav {
+body {
   text-align: center;
+}
+
+nav {
   background-color: rgb(65, 64, 64);
   padding: 10px;
 }
@@ -8,10 +11,21 @@ li {
   display: inline;
 }
 
-body {
-  text-align: center;
+img {
+  margin: 10px;
 }
 
-section {
+#section2 {
   display: inline;
+  align: 
+  
 }
+
+#section2 {
+  margin-left: 300px;
+}
+
+
+
+
+
